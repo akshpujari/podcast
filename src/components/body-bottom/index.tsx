@@ -2,7 +2,7 @@ import Footer from "./footer";
 
 function BodyBottom() {
     return (
-        <div className="px-44 mt-28 mx-auto text-center"
+        <div className="px-44 mt-8 mx-auto text-center"
             style={{
                 backgroundImage: `url(${process.env.PUBLIC_URL}bg-graphic-bottom.svg)`,
                 maxWidth: '90rem',
