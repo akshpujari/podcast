@@ -14,7 +14,6 @@ function BodyBottom() {
                 Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type a
             </div>
             <button className="py-5 px-14 my-20 text-white">Get Started Now</button>
-            {/* Static Footer */}
             <Footer></Footer>
         </div>
     )
