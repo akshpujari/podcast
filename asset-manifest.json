@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/akshpujari/akshpujari.github.io.git/static/css/main.890c73a5.css",
+    "main.js": "/akshpujari/akshpujari.github.io.git/static/js/main.fb1a4e82.js",
+    "static/js/651.78ab0807.chunk.js": "/akshpujari/akshpujari.github.io.git/static/js/651.78ab0807.chunk.js",
+    "index.html": "/akshpujari/akshpujari.github.io.git/index.html",
+    "main.890c73a5.css.map": "/akshpujari/akshpujari.github.io.git/static/css/main.890c73a5.css.map",
+    "main.fb1a4e82.js.map": "/akshpujari/akshpujari.github.io.git/static/js/main.fb1a4e82.js.map",
+    "651.78ab0807.chunk.js.map": "/akshpujari/akshpujari.github.io.git/static/js/651.78ab0807.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.890c73a5.css",
+    "static/js/main.fb1a4e82.js"
+  ]
+}
